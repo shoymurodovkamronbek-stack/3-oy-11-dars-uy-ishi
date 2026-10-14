@@ -14,5 +14,5 @@ function strStr(haystack, needle){
       return -1;
 }
 
-console.log(str("sadbutsad", "sad"))
-console.log(str("leedcode", "leeto"))
+console.log(strStr("sadbutsad", "sad"))
+console.log(strStr("leedcode", "leeto"))
